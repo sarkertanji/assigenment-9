@@ -69,6 +69,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-### `add material ui`
+### `for bonus`
 
-add material ui node package for rating
+A.Add material ui node package for rating.
+B.Created a file (redirects) in the public folder,
+C.Deployed project in netlify
