@@ -1,0 +1,27 @@
+/* small container  */
+.course-detail-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.course-detail-container img {
+  width: 130px;
+  height: 110px;
+}
+.img-container {
+  padding: 2px;
+  height: 112px;
+  transition: 0.8s;
+}
+.img-container:hover {
+  box-shadow: 5px 5px 15px;
+}
+.course-text {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin-left: 25px;
+  padding: 5px;
+  line-height: 15px;
+  font-weight: bold;
+}

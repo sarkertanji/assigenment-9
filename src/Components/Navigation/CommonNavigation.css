@@ -1,0 +1,19 @@
+.common-nav {
+  margin-top: 25px;
+  padding: 5px;
+  margin-bottom: 100px;
+}
+.common-nav nav {
+  margin-left: 370px;
+}
+.common-nav nav a {
+  text-decoration: none;
+
+  margin-left: 80px;
+  font-size: 22px;
+  color: black;
+  font-weight: 600;
+}
+.common-nav nav a:hover {
+  border-bottom: 3px solid black;
+}

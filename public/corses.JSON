@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "coarseName": "Photography Course",
+        "rating": 4,
+        "price": 300,
+        "seats": 15,
+        "img": "https://www.upskillist.com/assets/course-cards/website/wide/photography-21.png"
+    },
+    {
+        "id": 2,
+        "coarseName": "web design course",
+        "rating": 4.5,
+        "price": 250,
+        "seats": 12,
+        "img": "https://leverageedublog.s3.ap-south-1.amazonaws.com/blog/wp-content/uploads/2019/09/10193912/Website-Development-Process-01.jpg"
+    },
+    {
+        "id": 3,
+        "coarseName": "UI/UXDesign Course",
+        "rating": 3,
+        "price": 500,
+        "seats": 50,
+        "img": "https://res.cloudinary.com/springboard-images/image/upload/q_auto,f_auto,fl_lossy/wordpress-india/2020/11/11-05-Banner-Opt1.png"
+    },
+    {
+        "id": 4,
+        "coarseName": "IELTS Course",
+        "rating": 4.5,
+        "price": 210,
+        "seats": 25,
+        "img": "https://www.tangolearn.com/wp-content/uploads/2021/09/best-ielts-online-courses.jpg"
+    },
+    {
+        "id": 5,
+        "coarseName": "IELTS Course",
+        "rating": 4,
+        "price": 450,
+        "seats": 25,
+        "img": "https://www.tangolearn.com/wp-content/uploads/2021/09/best-ielts-online-courses.jpg"
+    },
+    {
+        "id": 6,
+        "coarseName": "IELTS Course",
+        "rating": 4,
+        "price": 550,
+        "seats": 25,
+        "img": "https://www.tangolearn.com/wp-content/uploads/2021/09/best-ielts-online-courses.jpg"
+    }
+]
